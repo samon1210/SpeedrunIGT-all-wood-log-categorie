@@ -1,0 +1,50 @@
+{
+    "id": "all wood log",
+    "name": "All wood log%",
+    "version": "1.16.1",
+    "src_category": "mcce#Obtain_Item",
+    "conditions": [
+        [
+            {
+                "type": "obtain_item",
+                "name": "oak_log",
+                "item_id": "minecraft:oak_log"
+            },
+            {
+                "type": "obtain_item",
+                "name": "spruce_log",
+                "item_id": "minecraft:spruce_log"
+            },
+            {
+                "type": "obtain_item",
+                "name": "birch_log",
+                "item_id": "minecraft:birch_log"
+            },
+            {
+                "type": "obtain_item",
+                "name": "jungle_log",
+                "item_id": "minecraft:jungle_log"
+            },
+            {
+                "type": "obtain_item",
+                "name": "acacia_log",
+                "item_id": "minecraft:acacia_log"
+            },
+            {
+                "type": "obtain_item",
+                "name": "dark_oak_log",
+                "item_id": "minecraft:dark_oak_log"
+            },
+            {
+                "type": "obtain_item",
+                "name": "crimson_stem",
+                "item_id": "minecraft:crimson_stem"
+            },
+            {
+                "type": "obtain_item",
+                "name": "warped_stem",
+                "item_id": "minecraft:warped_stem"
+            }
+        ]
+    ]
+}
